@@ -99,6 +99,7 @@ Greatest number is: 25
 📜 License
 
 This project is for educational purposes only.
+-----
 ##runpage
 ![runpage](run.png)
 
