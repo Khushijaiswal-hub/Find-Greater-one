@@ -92,7 +92,7 @@ Greatest number is: 25
 
 👨‍💻 Author
 
-- Your Name
+- Khushi Jaiswal
 
 ---
 
